@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SabirKhanek/SabirKhanek/blob/main/ss.jpg)
 <h3 align="center">Aspiring Full stack devoloper with expertise in MERN and MEAN stack development, dedicated to transforming data into insights."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirkhanek&label=Profile%20views&color=0e75b6&style=flat" alt="sabirkhanek" /> </p>
