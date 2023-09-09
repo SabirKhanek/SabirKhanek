@@ -1,6 +1,6 @@
 ![logo](https://github.com/SabirKhanek/SabirKhanek/blob/main/ss.jpg)
 <h3 align="center">Aspiring Full stack devoloper with expertise in MERN and MEAN stack development, dedicated to transforming data into insights."</h3>
-<img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+<img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirkhanek&label=Profile%20views&color=0e75b6&style=flat" alt="sabirkhanek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirkhanek" alt="sabirkhanek" /></a> </p>
